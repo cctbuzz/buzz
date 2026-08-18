@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Faculty | CCT BUZZ</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="home.css"></head>
+<body><header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">C</span><span><strong>CCT</strong> BUZZ</span></a>
+<nav class="desktop-nav"><a href="index.html#faculties">Faculties</a><a href="#faq">FAQ</a><a href="#resources">Resources</a></nav>
+<button class="menu-toggle" id="menuToggle" aria-label="Open menu"><span></span><span></span><span></span></button>
+<div class="mobile-menu" id="mobileMenu"><div class="mobile-menu-inner"><div class="menu-head"><span>Faculty navigation</span><button id="menuClose">×</button></div>
+<a href="index.html#faculties">All faculties <small>Choose another faculty</small></a><a href="#faq">FAQ <small>Faculty-specific answers</small></a><a href="#resources">Resources <small>Books, PDFs, videos and websites</small></a><div class="menu-label">FACULTIES</div><div class="menu-faculties"><a href="?faculty=csit">BSc CSIT</a><a href="?faculty=bit">BIT</a><a href="?faculty=btech">B.Tech Food</a><a href="?faculty=mtech">M.Tech</a><a href="?faculty=bsc">B.Sc.</a><a href="?faculty=microbiology">Microbiology</a><a href="?faculty=geology">Geology</a></div></div></div></header>
+<main class="faculty-page">
+<a class="back-link" href="index.html#faculties">← All faculties</a>
+<section class="faculty-hero"><p class="eyebrow" id="facultyEyebrow">CCT BUZZ · FACULTY</p><h1 id="facultyTitle">Faculty</h1><p id="facultyDescription"></p>
+<div class="profile-strip"><span id="profileText">No profile selected</span><button id="changeProfile">Change faculty / semester</button></div></section>
+<section class="faculty-tools">
+<a class="tool-card tool-red" id="quizLink"><span>01 · PLAY</span><h2>Quizzes</h2><p>Three difficulty levels, five questions each and points that stay on your device.</p><b>Start quiz →</b></a>
+<a class="tool-card" id="resourceLink"><span>02 · LEARN</span><h2>Resources</h2><p>Move through books, PDFs, YouTube, pages and websites curated for the faculty.</p><b>Open resource library →</b></a>
+<a class="tool-card" href="#faq"><span>03 · KNOW</span><h2>FAQ</h2><p>Quick answers about the programme and how CCT BUZZ fits around official information.</p><b>Read answers →</b></a>
+</section>
+<section class="faculty-info"><div><p class="eyebrow">FACULTY SNAPSHOT</p><h2>Keep it relevant.</h2></div><div class="empty-panel faculty-snapshot"><p id="snapshot"></p><div class="snapshot-grid"><span><b>3</b> quiz levels</span><span><b>15</b> demo questions</span><span><b>5</b> resource types</span></div></div></section>
+<section class="faq-section faculty-faq" id="faq"><div class="faq-heading"><p class="eyebrow">FACULTY FAQ</p><h2>Questions students actually ask</h2><p id="faqIntro"></p></div><div class="faq-list" id="facultyFaq"></div></section>
+</main>
+<footer><span>© <span id="year"></span> CCT BUZZ</span><span><a href="index.html">CCT BUZZ home</a></span></footer>
+<div class="profile-modal" id="profileModal" aria-hidden="true"><div class="modal-backdrop"></div><div class="modal-card"><button class="modal-x" id="modalClose">×</button><p class="eyebrow">YOUR CCT SPACE</p><h2>Select your faculty</h2><p class="modal-intro">Your selection is saved in localStorage on this device.</p><label>Faculty<select id="profileFaculty"><option value="">Choose faculty</option><option value="csit">BSc CSIT</option><option value="bit">BIT</option><option value="btech">B.Tech Food Technology</option><option value="mtech">M.Tech Food Technology</option><option value="bsc">B.Sc.</option><option value="microbiology">Microbiology</option><option value="geology">Geology</option></select></label><label>Year / semester<select id="profileSemester"><option value="">Choose year / semester</option><option>1st Year · 1st Semester</option><option>1st Year · 2nd Semester</option><option>2nd Year · 3rd Semester</option><option>2nd Year · 4th Semester</option><option>3rd Year · 5th Semester</option><option>3rd Year · 6th Semester</option><option>4th Year · 7th Semester</option><option>4th Year · 8th Semester</option></select></label><button class="button button-primary modal-save" id="saveProfile">Save my space →</button><p class="save-note" id="saveNote"></p></div></div>
+<script src="home.js"></script></body></html>

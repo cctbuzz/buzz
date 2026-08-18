@@ -1,0 +1,1339 @@
+{
+  "csit": {
+    "faculty": "BSc CSIT",
+    "levels": {
+      "beginner": [
+        {
+          "id": "csit-beginner-1",
+          "question": "What does CPU stand for?",
+          "options": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Program Utility",
+            "Core Processing Utility"
+          ],
+          "answer": "Central Processing Unit",
+          "points": 10
+        },
+        {
+          "id": "csit-beginner-2",
+          "question": "Which data structure follows FIFO?",
+          "options": [
+            "Stack",
+            "Queue",
+            "Tree",
+            "Graph"
+          ],
+          "answer": "Queue",
+          "points": 10
+        },
+        {
+          "id": "csit-beginner-3",
+          "question": "Which language is primarily used to style web pages?",
+          "options": [
+            "HTML",
+            "CSS",
+            "SQL",
+            "Python"
+          ],
+          "answer": "CSS",
+          "points": 10
+        },
+        {
+          "id": "csit-beginner-4",
+          "question": "What is the binary representation of decimal 5?",
+          "options": [
+            "100",
+            "101",
+            "110",
+            "111"
+          ],
+          "answer": "101",
+          "points": 10
+        },
+        {
+          "id": "csit-beginner-5",
+          "question": "Which SQL command retrieves rows from a table?",
+          "options": [
+            "INSERT",
+            "SELECT",
+            "UPDATE",
+            "DELETE"
+          ],
+          "answer": "SELECT",
+          "points": 10
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "csit-intermediate-1",
+          "question": "What is an algorithm?",
+          "options": [
+            "A programming language",
+            "A finite sequence of steps for solving a problem",
+            "A database table",
+            "A computer component"
+          ],
+          "answer": "A finite sequence of steps for solving a problem",
+          "points": 20
+        },
+        {
+          "id": "csit-intermediate-2",
+          "question": "Which protocol is used to transfer web pages securely?",
+          "options": [
+            "FTP",
+            "HTTP",
+            "HTTPS",
+            "SMTP"
+          ],
+          "answer": "HTTPS",
+          "points": 20
+        },
+        {
+          "id": "csit-intermediate-3",
+          "question": "What is the average time complexity of binary search on a sorted array?",
+          "options": [
+            "O(1)",
+            "O(log n)",
+            "O(n)",
+            "O(n²)"
+          ],
+          "answer": "O(log n)",
+          "points": 20
+        },
+        {
+          "id": "csit-intermediate-4",
+          "question": "Which normal form removes partial dependency?",
+          "options": [
+            "First Normal Form",
+            "Second Normal Form",
+            "Third Normal Form",
+            "BCNF"
+          ],
+          "answer": "Second Normal Form",
+          "points": 20
+        },
+        {
+          "id": "csit-intermediate-5",
+          "question": "Which device forwards packets between networks?",
+          "options": [
+            "Switch",
+            "Router",
+            "Repeater",
+            "Hub"
+          ],
+          "answer": "Router",
+          "points": 20
+        }
+      ],
+      "advanced": [
+        {
+          "id": "csit-advanced-1",
+          "question": "What does OOP stand for?",
+          "options": [
+            "Object-Oriented Programming",
+            "Open Operating Protocol",
+            "Ordered Object Processing",
+            "Online Output Program"
+          ],
+          "answer": "Object-Oriented Programming",
+          "points": 30
+        },
+        {
+          "id": "csit-advanced-2",
+          "question": "Which structure is best suited for recursion?",
+          "options": [
+            "Queue",
+            "Stack",
+            "Heap",
+            "Graph"
+          ],
+          "answer": "Stack",
+          "points": 30
+        },
+        {
+          "id": "csit-advanced-3",
+          "question": "What does DNS primarily translate?",
+          "options": [
+            "Files to folders",
+            "Domain names to IP addresses",
+            "Images to pixels",
+            "Passwords to hashes"
+          ],
+          "answer": "Domain names to IP addresses",
+          "points": 30
+        },
+        {
+          "id": "csit-advanced-4",
+          "question": "Which is volatile memory?",
+          "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Optical disk"
+          ],
+          "answer": "RAM",
+          "points": 30
+        },
+        {
+          "id": "csit-advanced-5",
+          "question": "Which HTTP status code means Not Found?",
+          "options": [
+            "200",
+            "301",
+            "403",
+            "404"
+          ],
+          "answer": "404",
+          "points": 30
+        }
+      ]
+    }
+  },
+  "bit": {
+    "faculty": "BIT",
+    "levels": {
+      "beginner": [
+        {
+          "id": "bit-beginner-1",
+          "question": "BIT primarily focuses on which broad area?",
+          "options": [
+            "Geology",
+            "Information technology",
+            "Food processing",
+            "Petrology"
+          ],
+          "answer": "Information technology",
+          "points": 10
+        },
+        {
+          "id": "bit-beginner-2",
+          "question": "Which markup language structures web documents?",
+          "options": [
+            "CSS",
+            "HTML",
+            "SQL",
+            "Python"
+          ],
+          "answer": "HTML",
+          "points": 10
+        },
+        {
+          "id": "bit-beginner-3",
+          "question": "Which database language is used to query relational data?",
+          "options": [
+            "SQL",
+            "CSS",
+            "HTTP",
+            "XML"
+          ],
+          "answer": "SQL",
+          "points": 10
+        },
+        {
+          "id": "bit-beginner-4",
+          "question": "Which model separates presentation, logic and data?",
+          "options": [
+            "Peer-to-peer",
+            "Three-tier architecture",
+            "Bus topology",
+            "Ring topology"
+          ],
+          "answer": "Three-tier architecture",
+          "points": 10
+        },
+        {
+          "id": "bit-beginner-5",
+          "question": "Which technology commonly makes web pages interactive in the browser?",
+          "options": [
+            "JavaScript",
+            "SQL",
+            "SMTP",
+            "FTP"
+          ],
+          "answer": "JavaScript",
+          "points": 10
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "bit-intermediate-1",
+          "question": "What is a primary key used for?",
+          "options": [
+            "Styling a page",
+            "Uniquely identifying records",
+            "Encrypting Wi-Fi",
+            "Compressing images"
+          ],
+          "answer": "Uniquely identifying records",
+          "points": 20
+        },
+        {
+          "id": "bit-intermediate-2",
+          "question": "Which cloud model provides virtualized computing infrastructure?",
+          "options": [
+            "SaaS",
+            "PaaS",
+            "IaaS",
+            "DNS"
+          ],
+          "answer": "IaaS",
+          "points": 20
+        },
+        {
+          "id": "bit-intermediate-3",
+          "question": "Which topology connects devices to a central device?",
+          "options": [
+            "Bus",
+            "Ring",
+            "Star",
+            "Mesh"
+          ],
+          "answer": "Star",
+          "points": 20
+        },
+        {
+          "id": "bit-intermediate-4",
+          "question": "What does API stand for?",
+          "options": [
+            "Application Programming Interface",
+            "Applied Program Internet",
+            "Advanced Protocol Index",
+            "Application Process Input"
+          ],
+          "answer": "Application Programming Interface",
+          "points": 20
+        },
+        {
+          "id": "bit-intermediate-5",
+          "question": "Which HTTP method is conventionally used to retrieve data?",
+          "options": [
+            "GET",
+            "POST",
+            "PATCH",
+            "DELETE"
+          ],
+          "answer": "GET",
+          "points": 20
+        }
+      ],
+      "advanced": [
+        {
+          "id": "bit-advanced-1",
+          "question": "Which principle limits access to only what is needed?",
+          "options": [
+            "Open access",
+            "Least privilege",
+            "Redundancy",
+            "Broadcasting"
+          ],
+          "answer": "Least privilege",
+          "points": 30
+        },
+        {
+          "id": "bit-advanced-2",
+          "question": "What does UI stand for?",
+          "options": [
+            "User Internet",
+            "User Interface",
+            "Unified Input",
+            "Universal Integration"
+          ],
+          "answer": "User Interface",
+          "points": 30
+        },
+        {
+          "id": "bit-advanced-3",
+          "question": "Which is an example of version control software?",
+          "options": [
+            "Git",
+            "Excel",
+            "SMTP",
+            "DNS"
+          ],
+          "answer": "Git",
+          "points": 30
+        },
+        {
+          "id": "bit-advanced-4",
+          "question": "What does JSON commonly represent?",
+          "options": [
+            "Only images",
+            "Structured data",
+            "Video streams",
+            "Operating systems"
+          ],
+          "answer": "Structured data",
+          "points": 30
+        },
+        {
+          "id": "bit-advanced-5",
+          "question": "Which testing checks individual units of code?",
+          "options": [
+            "System testing",
+            "Unit testing",
+            "Acceptance testing",
+            "Load balancing"
+          ],
+          "answer": "Unit testing",
+          "points": 30
+        }
+      ]
+    }
+  },
+  "btech": {
+    "faculty": "B.Tech Food Technology",
+    "levels": {
+      "beginner": [
+        {
+          "id": "btech-beginner-1",
+          "question": "Which factor most directly reduces microbial growth in many foods?",
+          "options": [
+            "Increasing water activity",
+            "Lowering water activity",
+            "Increasing exposure to air",
+            "Adding oxygen"
+          ],
+          "answer": "Lowering water activity",
+          "points": 10
+        },
+        {
+          "id": "btech-beginner-2",
+          "question": "Pasteurization is primarily intended to?",
+          "options": [
+            "Sterilize every food completely",
+            "Reduce pathogenic and spoilage microorganisms",
+            "Increase moisture",
+            "Create vitamins"
+          ],
+          "answer": "Reduce pathogenic and spoilage microorganisms",
+          "points": 10
+        },
+        {
+          "id": "btech-beginner-3",
+          "question": "Which nutrient is a major energy source?",
+          "options": [
+            "Carbohydrate",
+            "Water",
+            "Mineral ash",
+            "Food pigment"
+          ],
+          "answer": "Carbohydrate",
+          "points": 10
+        },
+        {
+          "id": "btech-beginner-4",
+          "question": "What is pH 7 approximately?",
+          "options": [
+            "Strongly acidic",
+            "Neutral",
+            "Strongly alkaline",
+            "Oxidizing"
+          ],
+          "answer": "Neutral",
+          "points": 10
+        },
+        {
+          "id": "btech-beginner-5",
+          "question": "What does HACCP stand for?",
+          "options": [
+            "Hazard Analysis and Critical Control Points",
+            "Heat Analysis and Chemical Control Process",
+            "Health Assessment of Cold Chain Products",
+            "Hazard and Chemical Cleaning Control Plan"
+          ],
+          "answer": "Hazard Analysis and Critical Control Points",
+          "points": 10
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "btech-intermediate-1",
+          "question": "Maillard reaction is associated with?",
+          "options": [
+            "Freezing",
+            "Non-enzymatic browning",
+            "Protein digestion only",
+            "Filtration"
+          ],
+          "answer": "Non-enzymatic browning",
+          "points": 20
+        },
+        {
+          "id": "btech-intermediate-2",
+          "question": "Which unit is commonly used for food energy?",
+          "options": [
+            "Kilocalorie",
+            "Pascal",
+            "Tesla",
+            "Ohm"
+          ],
+          "answer": "Kilocalorie",
+          "points": 20
+        },
+        {
+          "id": "btech-intermediate-3",
+          "question": "What is blanching commonly used for before freezing vegetables?",
+          "options": [
+            "Increasing microbial growth",
+            "Enzyme inactivation",
+            "Adding protein",
+            "Drying completely"
+          ],
+          "answer": "Enzyme inactivation",
+          "points": 20
+        },
+        {
+          "id": "btech-intermediate-4",
+          "question": "Which microorganism is commonly used in bread fermentation?",
+          "options": [
+            "E. coli",
+            "Saccharomyces cerevisiae",
+            "Salmonella",
+            "Rhizobium"
+          ],
+          "answer": "Saccharomyces cerevisiae",
+          "points": 20
+        },
+        {
+          "id": "btech-intermediate-5",
+          "question": "Water activity is related to?",
+          "options": [
+            "Only color",
+            "Availability of water for reactions and microbes",
+            "Protein sequence",
+            "Packaging weight"
+          ],
+          "answer": "Availability of water for reactions and microbes",
+          "points": 20
+        }
+      ],
+      "advanced": [
+        {
+          "id": "btech-advanced-1",
+          "question": "Which is a common food preservation method?",
+          "options": [
+            "Drying",
+            "Rusting",
+            "Oxidizing metals",
+            "Grinding glass"
+          ],
+          "answer": "Drying",
+          "points": 30
+        },
+        {
+          "id": "btech-advanced-2",
+          "question": "Aflatoxins are associated mainly with some species of?",
+          "options": [
+            "Aspergillus",
+            "Lactobacillus",
+            "Bacillus only",
+            "Rhizobium"
+          ],
+          "answer": "Aspergillus",
+          "points": 30
+        },
+        {
+          "id": "btech-advanced-3",
+          "question": "What is homogenization commonly used to do to milk?",
+          "options": [
+            "Remove all lactose",
+            "Reduce fat globule size and improve emulsion stability",
+            "Sterilize completely",
+            "Increase salt"
+          ],
+          "answer": "Reduce fat globule size and improve emulsion stability",
+          "points": 30
+        },
+        {
+          "id": "btech-advanced-4",
+          "question": "Which packaging property is important for oxygen-sensitive foods?",
+          "options": [
+            "High oxygen permeability",
+            "Oxygen barrier",
+            "High water leakage",
+            "UV emission"
+          ],
+          "answer": "Oxygen barrier",
+          "points": 30
+        },
+        {
+          "id": "btech-advanced-5",
+          "question": "Food quality control mainly aims to ensure?",
+          "options": [
+            "Only attractive labels",
+            "Safety, consistency and compliance",
+            "Maximum water content",
+            "Random formulation"
+          ],
+          "answer": "Safety, consistency and compliance",
+          "points": 30
+        }
+      ]
+    }
+  },
+  "mtech": {
+    "faculty": "M.Tech Food Technology",
+    "levels": {
+      "beginner": [
+        {
+          "id": "mtech-beginner-1",
+          "question": "In food process engineering, residence time refers to?",
+          "options": [
+            "Time a machine is switched off",
+            "Time material spends in a process unit",
+            "Shelf-life only",
+            "Cleaning time only"
+          ],
+          "answer": "Time material spends in a process unit",
+          "points": 10
+        },
+        {
+          "id": "mtech-beginner-2",
+          "question": "What is a common objective of aseptic processing?",
+          "options": [
+            "Increasing contamination",
+            "Commercial sterility with quality retention",
+            "Adding oxygen",
+            "Reducing packaging strength"
+          ],
+          "answer": "Commercial sterility with quality retention",
+          "points": 10
+        },
+        {
+          "id": "mtech-beginner-3",
+          "question": "Which parameter strongly affects microbial inactivation kinetics?",
+          "options": [
+            "Temperature",
+            "Font size",
+            "Label color",
+            "Warehouse name"
+          ],
+          "answer": "Temperature",
+          "points": 10
+        },
+        {
+          "id": "mtech-beginner-4",
+          "question": "What does CFD commonly mean in engineering?",
+          "options": [
+            "Controlled Food Drying",
+            "Computational Fluid Dynamics",
+            "Chemical Food Design",
+            "Central Flow Database"
+          ],
+          "answer": "Computational Fluid Dynamics",
+          "points": 10
+        },
+        {
+          "id": "mtech-beginner-5",
+          "question": "A higher heat-transfer coefficient generally means?",
+          "options": [
+            "Slower heat transfer",
+            "Faster heat transfer for a given driving force",
+            "No heat transfer",
+            "Only mass transfer"
+          ],
+          "answer": "Faster heat transfer for a given driving force",
+          "points": 10
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "mtech-intermediate-1",
+          "question": "What is water activity denoted by?",
+          "options": [
+            "pH",
+            "aw",
+            "RH only",
+            "Tg"
+          ],
+          "answer": "aw",
+          "points": 20
+        },
+        {
+          "id": "mtech-intermediate-2",
+          "question": "Glass transition temperature is especially important in?",
+          "options": [
+            "Metal machining",
+            "Amorphous food materials",
+            "Water purification only",
+            "Soil classification"
+          ],
+          "answer": "Amorphous food materials",
+          "points": 20
+        },
+        {
+          "id": "mtech-intermediate-3",
+          "question": "What is spray drying used for?",
+          "options": [
+            "Converting liquid feeds into powders",
+            "Growing crystals only",
+            "Removing oxygen from cans",
+            "Measuring pH"
+          ],
+          "answer": "Converting liquid feeds into powders",
+          "points": 20
+        },
+        {
+          "id": "mtech-intermediate-4",
+          "question": "Which is a non-thermal processing technology?",
+          "options": [
+            "Boiling",
+            "High-pressure processing",
+            "Retorting",
+            "Baking"
+          ],
+          "answer": "High-pressure processing",
+          "points": 20
+        },
+        {
+          "id": "mtech-intermediate-5",
+          "question": "Shelf-life studies are designed to estimate?",
+          "options": [
+            "Factory floor area",
+            "How long a product remains acceptable under specified conditions",
+            "Only package cost",
+            "Only processing temperature"
+          ],
+          "answer": "How long a product remains acceptable under specified conditions",
+          "points": 20
+        }
+      ],
+      "advanced": [
+        {
+          "id": "mtech-advanced-1",
+          "question": "What is validation intended to demonstrate?",
+          "options": [
+            "A process consistently achieves its intended outcome",
+            "A product has a logo",
+            "A machine is new",
+            "A label is colorful"
+          ],
+          "answer": "A process consistently achieves its intended outcome",
+          "points": 30
+        },
+        {
+          "id": "mtech-advanced-2",
+          "question": "Which model is often used to describe microbial death during constant-temperature treatment?",
+          "options": [
+            "Log-linear model",
+            "Newtonian optics",
+            "Ohm's law",
+            "Hooke's law"
+          ],
+          "answer": "Log-linear model",
+          "points": 30
+        },
+        {
+          "id": "mtech-advanced-3",
+          "question": "What does GMP emphasize?",
+          "options": [
+            "Good manufacturing practices",
+            "Geological mapping practice",
+            "General marketing price",
+            "Gas measurement protocol"
+          ],
+          "answer": "Good manufacturing practices",
+          "points": 30
+        },
+        {
+          "id": "mtech-advanced-4",
+          "question": "In process optimization, an objective function is?",
+          "options": [
+            "A quantity to maximize or minimize",
+            "A packaging label",
+            "A storage room",
+            "A laboratory instrument"
+          ],
+          "answer": "A quantity to maximize or minimize",
+          "points": 30
+        },
+        {
+          "id": "mtech-advanced-5",
+          "question": "Traceability allows a product to be?",
+          "options": [
+            "Tracked through relevant stages of the supply chain",
+            "Made sterile by default",
+            "Stored without records",
+            "Sold without identification"
+          ],
+          "answer": "Tracked through relevant stages of the supply chain",
+          "points": 30
+        }
+      ]
+    }
+  },
+  "bsc": {
+    "faculty": "B.Sc.",
+    "levels": {
+      "beginner": [
+        {
+          "id": "bsc-beginner-1",
+          "question": "Which organelle is commonly called the powerhouse of the cell?",
+          "options": [
+            "Nucleus",
+            "Mitochondrion",
+            "Ribosome",
+            "Golgi apparatus"
+          ],
+          "answer": "Mitochondrion",
+          "points": 10
+        },
+        {
+          "id": "bsc-beginner-2",
+          "question": "What is the SI unit of force?",
+          "options": [
+            "Joule",
+            "Newton",
+            "Pascal",
+            "Watt"
+          ],
+          "answer": "Newton",
+          "points": 10
+        },
+        {
+          "id": "bsc-beginner-3",
+          "question": "A solution with pH below 7 is?",
+          "options": [
+            "Basic",
+            "Neutral",
+            "Acidic",
+            "Salty"
+          ],
+          "answer": "Acidic",
+          "points": 10
+        },
+        {
+          "id": "bsc-beginner-4",
+          "question": "Photosynthesis primarily converts light energy into?",
+          "options": [
+            "Sound energy",
+            "Chemical energy",
+            "Nuclear energy",
+            "Mechanical energy"
+          ],
+          "answer": "Chemical energy",
+          "points": 10
+        },
+        {
+          "id": "bsc-beginner-5",
+          "question": "Which particle has a negative charge?",
+          "options": [
+            "Proton",
+            "Neutron",
+            "Electron",
+            "Photon"
+          ],
+          "answer": "Electron",
+          "points": 10
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "bsc-intermediate-1",
+          "question": "What is DNA's primary role?",
+          "options": [
+            "Store genetic information",
+            "Produce ATP directly",
+            "Digest food",
+            "Transport oxygen"
+          ],
+          "answer": "Store genetic information",
+          "points": 20
+        },
+        {
+          "id": "bsc-intermediate-2",
+          "question": "Which gas is most abundant in Earth's atmosphere?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Argon"
+          ],
+          "answer": "Nitrogen",
+          "points": 20
+        },
+        {
+          "id": "bsc-intermediate-3",
+          "question": "What is the derivative of x²?",
+          "options": [
+            "x",
+            "2x",
+            "x²",
+            "2"
+          ],
+          "answer": "2x",
+          "points": 20
+        },
+        {
+          "id": "bsc-intermediate-4",
+          "question": "Which rock forms from cooled magma or lava?",
+          "options": [
+            "Sedimentary rock",
+            "Metamorphic rock",
+            "Igneous rock",
+            "Soil"
+          ],
+          "answer": "Igneous rock",
+          "points": 20
+        },
+        {
+          "id": "bsc-intermediate-5",
+          "question": "Which law relates pressure and volume of a gas at constant temperature?",
+          "options": [
+            "Boyle's law",
+            "Ohm's law",
+            "Faraday's law",
+            "Hooke's law"
+          ],
+          "answer": "Boyle's law",
+          "points": 20
+        }
+      ],
+      "advanced": [
+        {
+          "id": "bsc-advanced-1",
+          "question": "What is osmosis?",
+          "options": [
+            "Movement of proteins",
+            "Movement of water across a selectively permeable membrane",
+            "Movement of electrons",
+            "Movement of rocks"
+          ],
+          "answer": "Movement of water across a selectively permeable membrane",
+          "points": 30
+        },
+        {
+          "id": "bsc-advanced-2",
+          "question": "Which blood cells mainly transport oxygen?",
+          "options": [
+            "Platelets",
+            "Red blood cells",
+            "White blood cells",
+            "Plasma cells"
+          ],
+          "answer": "Red blood cells",
+          "points": 30
+        },
+        {
+          "id": "bsc-advanced-3",
+          "question": "What is acceleration due to gravity near Earth's surface approximately?",
+          "options": [
+            "3.0 m/s²",
+            "9.8 m/s²",
+            "98 m/s²",
+            "0.98 m/s²"
+          ],
+          "answer": "9.8 m/s²",
+          "points": 30
+        },
+        {
+          "id": "bsc-advanced-4",
+          "question": "Which bond involves sharing electron pairs?",
+          "options": [
+            "Ionic bond",
+            "Covalent bond",
+            "Metallic bond only",
+            "Hydrogen bond only"
+          ],
+          "answer": "Covalent bond",
+          "points": 30
+        },
+        {
+          "id": "bsc-advanced-5",
+          "question": "What is biodiversity?",
+          "options": [
+            "Variety of life at different levels",
+            "Only number of trees",
+            "Only animal population",
+            "Only genetic mutation"
+          ],
+          "answer": "Variety of life at different levels",
+          "points": 30
+        }
+      ]
+    }
+  },
+  "microbiology": {
+    "faculty": "Microbiology",
+    "levels": {
+      "beginner": [
+        {
+          "id": "microbiology-beginner-1",
+          "question": "Bacteria are generally classified as?",
+          "options": [
+            "Eukaryotes",
+            "Prokaryotes",
+            "Viruses",
+            "Prions"
+          ],
+          "answer": "Prokaryotes",
+          "points": 10
+        },
+        {
+          "id": "microbiology-beginner-2",
+          "question": "Which stain is commonly used to differentiate Gram-positive and Gram-negative bacteria?",
+          "options": [
+            "Gram stain",
+            "Endospore stain only",
+            "India ink only",
+            "Acid-fast stain only"
+          ],
+          "answer": "Gram stain",
+          "points": 10
+        },
+        {
+          "id": "microbiology-beginner-3",
+          "question": "Which structure helps many bacteria move?",
+          "options": [
+            "Capsule",
+            "Flagellum",
+            "Ribosome",
+            "Plasmid"
+          ],
+          "answer": "Flagellum",
+          "points": 10
+        },
+        {
+          "id": "microbiology-beginner-4",
+          "question": "What is an autoclave primarily used for?",
+          "options": [
+            "Drying glassware",
+            "Steam sterilization",
+            "Measuring pH",
+            "Freezing cultures"
+          ],
+          "answer": "Steam sterilization",
+          "points": 10
+        },
+        {
+          "id": "microbiology-beginner-5",
+          "question": "Viruses require what to replicate?",
+          "options": [
+            "A host cell",
+            "Agar alone",
+            "Distilled water",
+            "Oxygen only"
+          ],
+          "answer": "A host cell",
+          "points": 10
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "microbiology-intermediate-1",
+          "question": "Which organism is used in yogurt fermentation?",
+          "options": [
+            "Lactic acid bacteria",
+            "Plasmodium",
+            "Bacteriophage",
+            "Mold only"
+          ],
+          "answer": "Lactic acid bacteria",
+          "points": 20
+        },
+        {
+          "id": "microbiology-intermediate-2",
+          "question": "What is aseptic technique designed to prevent?",
+          "options": [
+            "Contamination",
+            "Photosynthesis",
+            "Mutation completely",
+            "Cell division"
+          ],
+          "answer": "Contamination",
+          "points": 20
+        },
+        {
+          "id": "microbiology-intermediate-3",
+          "question": "Which medium is commonly used for bacterial culture?",
+          "options": [
+            "Nutrient agar",
+            "Distilled water only",
+            "Mineral oil",
+            "Paraffin"
+          ],
+          "answer": "Nutrient agar",
+          "points": 20
+        },
+        {
+          "id": "microbiology-intermediate-4",
+          "question": "What is binary fission?",
+          "options": [
+            "A viral infection",
+            "A common mode of bacterial cell division",
+            "A staining method",
+            "A microscope type"
+          ],
+          "answer": "A common mode of bacterial cell division",
+          "points": 20
+        },
+        {
+          "id": "microbiology-intermediate-5",
+          "question": "Which antibody class is abundant in blood serum?",
+          "options": [
+            "IgG",
+            "IgE only",
+            "IgD only",
+            "IgA only"
+          ],
+          "answer": "IgG",
+          "points": 20
+        }
+      ],
+      "advanced": [
+        {
+          "id": "microbiology-advanced-1",
+          "question": "What is a plasmid?",
+          "options": [
+            "A small extrachromosomal DNA molecule",
+            "A bacterial ribosome",
+            "A cell wall protein",
+            "A viral capsid"
+          ],
+          "answer": "A small extrachromosomal DNA molecule",
+          "points": 30
+        },
+        {
+          "id": "microbiology-advanced-2",
+          "question": "Which microscope uses electrons instead of visible light?",
+          "options": [
+            "Light microscope",
+            "Electron microscope",
+            "Dissecting microscope",
+            "Phase microscope"
+          ],
+          "answer": "Electron microscope",
+          "points": 30
+        },
+        {
+          "id": "microbiology-advanced-3",
+          "question": "What is a pure culture?",
+          "options": [
+            "A culture containing one microbial species or strain",
+            "A mixed food sample",
+            "A sterilized medium only",
+            "A microscope slide"
+          ],
+          "answer": "A culture containing one microbial species or strain",
+          "points": 30
+        },
+        {
+          "id": "microbiology-advanced-4",
+          "question": "Which growth phase generally follows the lag phase?",
+          "options": [
+            "Death phase",
+            "Log/exponential phase",
+            "Stationary phase",
+            "Spore phase"
+          ],
+          "answer": "Log/exponential phase",
+          "points": 30
+        },
+        {
+          "id": "microbiology-advanced-5",
+          "question": "Antibiotics are primarily used against?",
+          "options": [
+            "Bacterial infections",
+            "All viruses",
+            "All fungi",
+            "All parasites"
+          ],
+          "answer": "Bacterial infections",
+          "points": 30
+        }
+      ]
+    }
+  },
+  "geology": {
+    "faculty": "Geology",
+    "levels": {
+      "beginner": [
+        {
+          "id": "geology-beginner-1",
+          "question": "What is the study of Earth materials and processes called?",
+          "options": [
+            "Biology",
+            "Geology",
+            "Astronomy",
+            "Ecology"
+          ],
+          "answer": "Geology",
+          "points": 10
+        },
+        {
+          "id": "geology-beginner-2",
+          "question": "Which mineral is hardest on the Mohs scale?",
+          "options": [
+            "Quartz",
+            "Calcite",
+            "Diamond",
+            "Gypsum"
+          ],
+          "answer": "Diamond",
+          "points": 10
+        },
+        {
+          "id": "geology-beginner-3",
+          "question": "What type of rock forms from deposited and lithified sediments?",
+          "options": [
+            "Igneous",
+            "Sedimentary",
+            "Metamorphic",
+            "Magmatic glass"
+          ],
+          "answer": "Sedimentary",
+          "points": 10
+        },
+        {
+          "id": "geology-beginner-4",
+          "question": "Plate tectonics describes movement of?",
+          "options": [
+            "Clouds",
+            "Lithospheric plates",
+            "Ocean currents only",
+            "River sediments only"
+          ],
+          "answer": "Lithospheric plates",
+          "points": 10
+        },
+        {
+          "id": "geology-beginner-5",
+          "question": "What is magma?",
+          "options": [
+            "Molten rock beneath Earth's surface",
+            "Sediment at the surface",
+            "Frozen water",
+            "A fossil"
+          ],
+          "answer": "Molten rock beneath Earth's surface",
+          "points": 10
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "geology-intermediate-1",
+          "question": "Which process changes existing rock through heat, pressure or fluids?",
+          "options": [
+            "Weathering only",
+            "Metamorphism",
+            "Erosion only",
+            "Deposition"
+          ],
+          "answer": "Metamorphism",
+          "points": 20
+        },
+        {
+          "id": "geology-intermediate-2",
+          "question": "What is an unconformity?",
+          "options": [
+            "A mineral deposit",
+            "A gap in the geologic record",
+            "A volcano type",
+            "A crystal defect"
+          ],
+          "answer": "A gap in the geologic record",
+          "points": 20
+        },
+        {
+          "id": "geology-intermediate-3",
+          "question": "Which instrument records earthquake waves?",
+          "options": [
+            "Barometer",
+            "Seismograph",
+            "Thermometer",
+            "Hygrometer"
+          ],
+          "answer": "Seismograph",
+          "points": 20
+        },
+        {
+          "id": "geology-intermediate-4",
+          "question": "What is weathering?",
+          "options": [
+            "Breakdown of rocks at or near Earth's surface",
+            "Movement of planets",
+            "Magma crystallization only",
+            "Ocean formation"
+          ],
+          "answer": "Breakdown of rocks at or near Earth's surface",
+          "points": 20
+        },
+        {
+          "id": "geology-intermediate-5",
+          "question": "Which mineral is a major component of granite?",
+          "options": [
+            "Halite",
+            "Quartz",
+            "Gypsum",
+            "Graphite"
+          ],
+          "answer": "Quartz",
+          "points": 20
+        }
+      ],
+      "advanced": [
+        {
+          "id": "geology-advanced-1",
+          "question": "What is stratigraphy concerned with?",
+          "options": [
+            "Rock layers and their relationships",
+            "Cloud formation",
+            "Animal anatomy",
+            "Ocean tides only"
+          ],
+          "answer": "Rock layers and their relationships",
+          "points": 30
+        },
+        {
+          "id": "geology-advanced-2",
+          "question": "The Earth's outer solid layer is called?",
+          "options": [
+            "Core",
+            "Mantle",
+            "Crust",
+            "Mesosphere"
+          ],
+          "answer": "Crust",
+          "points": 30
+        },
+        {
+          "id": "geology-advanced-3",
+          "question": "Folds are primarily produced by?",
+          "options": [
+            "Deformation of rock under stress",
+            "Evaporation",
+            "Freezing water only",
+            "Photosynthesis"
+          ],
+          "answer": "Deformation of rock under stress",
+          "points": 30
+        },
+        {
+          "id": "geology-advanced-4",
+          "question": "What does a fossil represent?",
+          "options": [
+            "Preserved evidence of past life",
+            "A newly formed mineral",
+            "A weather forecast",
+            "A volcanic gas"
+          ],
+          "answer": "Preserved evidence of past life",
+          "points": 30
+        },
+        {
+          "id": "geology-advanced-5",
+          "question": "What is an aquifer?",
+          "options": [
+            "A geologic formation that can store and transmit groundwater",
+            "A volcano vent",
+            "A soil horizon only",
+            "A tectonic plate"
+          ],
+          "answer": "A geologic formation that can store and transmit groundwater",
+          "points": 30
+        }
+      ]
+    }
+  }
+}
